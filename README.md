@@ -1,4 +1,5 @@
 # preact-cli [![Build Status](https://travis-ci.org/developit/preact-cli.svg?branch=master)](https://travis-ci.org/developit/preact-cli) [![NPM Downloads](https://img.shields.io/npm/dm/preact-cli.svg?style=flat)](https://www.npmjs.com/package/preact-cli) [![NPM Version](https://img.shields.io/npm/v/preact-cli.svg?style=flat)](https://www.npmjs.com/package/preact-cli)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FForsakenHarmony%2Fpreact-cli.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FForsakenHarmony%2Fpreact-cli?ref=badge_shield)
 
 > Start building a [Preact] Progressive Web App in seconds 🔥
 
@@ -329,3 +330,7 @@ The default templates comes with a `.css` file for each component. You can start
 [`async!`]: https://github.com/developit/preact-cli/blob/222e7018dd360e40f7db622191aeca62d6ef0c9a/examples/full/src/components/app.js#L7
 [SASS]: https://sass-lang.com
 [LESS]: http://lesscss.org
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FForsakenHarmony%2Fpreact-cli.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FForsakenHarmony%2Fpreact-cli?ref=badge_large)
